@@ -1,4 +1,4 @@
-C program fro Movie Booking System coded in C.
+C program for Movie Booking System coded in C.
 
 It's a simple Movie Ticket Booking System in C.
 It is a Menu Driven program running in an infinite loop.
